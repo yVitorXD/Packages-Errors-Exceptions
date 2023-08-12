@@ -1,3 +1,4 @@
+@Copyright(autor = "Vitor", data = "04/01/2002", versao = "01")
 
 public class InternetApp implements internet{
 
@@ -13,7 +14,5 @@ public class InternetApp implements internet{
 		System.out.println("Conectando");
 	}
 
-
-	
 
 }
