@@ -12,7 +12,6 @@ public class UsoGenerico {
 		
 		ExemploGenericos<String> sob = new ExemploGenericos<String>("Antonio");
 		
-		
 		sob.showType();
 		//String
 	}
